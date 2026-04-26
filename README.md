@@ -84,6 +84,10 @@ Returns:
 * Page numbers
 * Similarity scores
 
+## 📸 Demo
+
+![API Demo](api-demo.png)
+
 ---
 
 ## 🧠 Design Choices
