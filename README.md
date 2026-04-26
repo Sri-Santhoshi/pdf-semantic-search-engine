@@ -86,7 +86,7 @@ Returns:
 
 ## 📸 Demo
 
-![API Demo](images/api-demo.png)
+![API Demo](api-demo.png)
 
 ---
 
